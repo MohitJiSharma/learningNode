@@ -1,0 +1,1 @@
+This is code written file Hello from Content --> Hello.txt Hello from Content --> Generic --> Hello2.txtThis is code written file append Hello from Content --> Hello.txt Hello from Content --> Generic --> Hello2.txtAppending now
